@@ -1,0 +1,8 @@
+# KiCad backup and lock files
+*.bak
+*.bck
+*.lck
+~*
+
+# macOS metadata
+.DS_Store
